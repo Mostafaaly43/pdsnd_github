@@ -298,7 +298,8 @@ def raw_data(df, mark_place):
         elif sort_df == '':
             pass
 
-    # each loop displays 5 lines of raw data
+    #displays 5 lines of raw data
+    # in every loop a 5 lines of data(raw data as mentioned) is being displayed
     while True:
         for i in range(mark_place, len(df.index)):
             print("\n")
