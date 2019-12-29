@@ -5,7 +5,7 @@ Created on 28-Dec-2019.
 Bikeshare statistics.
 
 ### Description
-Describe what your project is about and what it does
+Analizes statistics and review raw data with Python from bikeshare in three US´cities: Chicago, New York City and Washington.
 
 ### Files used
 Include the files used
